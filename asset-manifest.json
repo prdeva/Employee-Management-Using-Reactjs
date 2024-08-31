@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Employee-Management-Using-Reactjs/static/css/main.8b5e7a06.css",
+    "main.js": "/Employee-Management-Using-Reactjs/static/js/main.2b04f611.js",
+    "static/media/background.png": "/Employee-Management-Using-Reactjs/static/media/background.af1ff40d63b3dde3577f.png",
+    "index.html": "/Employee-Management-Using-Reactjs/index.html",
+    "main.8b5e7a06.css.map": "/Employee-Management-Using-Reactjs/static/css/main.8b5e7a06.css.map",
+    "main.2b04f611.js.map": "/Employee-Management-Using-Reactjs/static/js/main.2b04f611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b5e7a06.css",
+    "static/js/main.2b04f611.js"
+  ]
+}
