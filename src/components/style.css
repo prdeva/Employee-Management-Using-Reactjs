@@ -1,0 +1,235 @@
+.reg{
+    height: 350px;
+    width: 400px;
+    border: 1px solid black;
+    margin-left: 500px;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+/* .tot{
+    background-image: url('./background.png'); 
+    
+    height: 750px;
+    margin-top: -70px;
+    position: absolute;
+   width: 1200px;
+  
+   background-repeat: no-repeat;
+
+} */
+.emplog{
+    text-align: center;
+    margin-top: 50px;
+}
+.form-control{
+    width: 350px;
+}
+.usepas{
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.but1{
+    margin-top: 40px;
+    margin-left: 100px;
+    background-color: rgb(12, 186, 105);
+    border-radius: 10px;
+    color: white;
+}
+.but2{
+   margin-left: 5px;
+   background-color: red;
+   color: white;
+   border-radius: 10px;
+   
+}
+
+.logo{
+    /* display: ; */
+    
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.logo1{
+    position: absolute;
+    margin-left: 30px;
+}
+.nav,.ul{
+    list-style-type: none;
+    
+}
+.ul{
+    margin-top: 110px;
+    margin-left: -110px;
+}
+.one{
+    height: 50px;
+    width: 50px;
+    padding: px;
+}
+nav,ul,li,a{
+    margin-top: 30px
+   
+    
+}
+.nav{
+    display: flex;
+    background-color: rgb(245, 185, 101);
+    height: 700px;
+    width: 200px;
+    position: absolute;
+}
+.reg1{
+    margin-top: -30px;
+}
+li{
+    color: white;
+}
+.wh{
+    color: white;
+    margin-left: 100px;
+    text-decoration: unset;
+}
+.ee{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+.pinput1{
+    margin-left: 100px;
+}
+.pinput2{
+    margin-left: 130px;
+}
+.pinput3{
+    margin-left: 125px;
+    width: 190px;
+}
+.pinput4{
+    margin-left: 125px;
+    width: 190px;
+}
+.task{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+.update1{
+    margin-left: 70px;
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: rgb(93, 169, 228);
+    color: white;
+}
+.cancel{
+    margin-left: 150px;
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: rgb(238, 86, 86);
+    color: white;
+
+}
+.tdate{
+    margin-left: -200px;
+    margin-top: -95px;
+}
+.des{
+    margin-left: -200px;
+}
+.plac{
+    height: 100px;
+    width: 500px;
+    margin-left: -200px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+.comp1{
+    border-radius: 10px;
+    width: 100px;
+    margin-top: 50px;
+    background-color: rgb(64, 176, 176);
+    color: white;
+    margin-left: -50px;
+}
+.can1{
+    border-radius: 10px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 10px;
+    background-color: rgb(237, 24, 24);
+    color: white;
+}
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.table{
+    margin-left: -200px;
+    margin-top: 20px;
+    /* margin-right: 1200px; */
+    width: 500px;
+    text-align: center;
+}
+.attend{
+    margin-top: 300px;
+    margin-left: 200px;
+}
+.gflink{
+    margin-left: -200px;
+}
+.time{
+    width: 200px;
+    margin-left: -40px;
+    /* margin-top: -1000px; */
+    margin-top: -300px;
+}
+.gflink{
+    margin-top: 50px;
+}
+.des{
+    margin-top: 10px;
+}
+.ti{
+    margin-left: -200px;
+    margin-top: 0px;
+    position: absolute;
+}
+.glink{
+    margin-left: 30px;
+    margin-top: -90px;
+}
+.glinkk{
+    margin-top: -30px;
+}
+.comp2{
+    margin-top: 20px;
+    position: absolute;
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+}
+.table1{
+    margin-left: -200px;
+    margin-top: 70px;
+    
+    width: 500px;
+    text-align: center;
+
+}
+.act{
+    height: 200px;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 200px;
+    position: absolute;
+}
+.reg {
+    background-image: url('./background.png'); /* Path to your image */
+    background-size: 1000px;
+   
+  }
+  
